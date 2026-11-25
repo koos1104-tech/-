@@ -1,0 +1,6 @@
+{
+  "name": "Remix 종목노트 — 상장사 뉴스 \u0026 Markdown 통합 정리",
+  "description": "기존 상장사 Markdown(.md) 파일과 신규 뉴스 하이퍼링크를 자동으로 파싱, 중복 제거, 종목별 병합 및 내보내기하는 리서치 워크스페이스",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
